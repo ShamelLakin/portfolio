@@ -3,11 +3,11 @@
     "name":"Shamel Lakin Portfolio",
     "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Specializing in JavaScript, React/Redux, and Rails. Skilled in all stages of the development process targeting a full-stack position. As a natural extrovert and strong communicator, I bring a positive attitude and a team-building approach to every role.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "christlife4u@gmail.com",
     "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/ShamelLakin",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
@@ -77,7 +77,7 @@
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"JavaScript",
         "level":"60%"
       },
       {
@@ -112,7 +112,7 @@
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://hulu-clone-1ab4b.web.app"
       },
       {
         "title":"Fury Fighting Gear",

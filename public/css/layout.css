@@ -415,6 +415,7 @@ ul#nav li.current a { color: #fe6928; }
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
+   
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -439,7 +440,7 @@ ul#nav li.current a { color: #fe6928; }
 	transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a {
-   display: block;
+   display: inline;
    cursor: pointer;
 }
 
